@@ -12,3 +12,7 @@ RoxygenNote: 7.3.1
 Imports: ggplot2
 URL: https://github.com/JakTal/pietruszka
 BugReports: https://github.com/JakTal/pietruszka/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
