@@ -13,3 +13,5 @@ konwersja_temp = function(temperatura_f){
   print(ggplot2::ggplot(x, ggplot2::aes(t)) + ggplot2::geom_histogram())
 }
 konwersja_temp(50)
+usethis::use_git()
+usethis::use_github()
