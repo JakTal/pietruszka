@@ -3,7 +3,7 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   winieta_testowa: winieta_testowa.html
-last_built: 2024-02-08T11:00Z
+last_built: 2024-02-08T13:51Z
 urls:
   reference: https://jaktal.github.io/pietruszka/reference
   article: https://jaktal.github.io/pietruszka/articles
