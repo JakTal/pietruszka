@@ -10,7 +10,7 @@
 #' konwersja_temp(50)
 konwersja_temp = function(temperatura_f){
   x = data.frame( t= (temperatura_f-32)/1.8)
-  print(ggplot2::ggplot(x, ggplot2::aes(t)) + ggplot2::geom_histogram())
+  print(ggplot2::ggplot(x, ggplot2::aes(t)) + ggplot2::geom_histogram(fill = "red"))
 }
 # # konwersja_temp(50)
 #
